@@ -1,0 +1,8 @@
+{
+  "name": "mosca server",
+  "version": "1.0.0",
+  "description": "MQTT broker",
+  "dependencies": {
+    "mosca": "2.0.2"
+  }
+}
